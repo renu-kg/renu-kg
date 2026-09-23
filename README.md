@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I'm Renu<br><br>🎓 Computer Science Engineering Student (3rd Year)<br>💡 Interested in Web Development | AI | Problem Solving | Building Projects | Art <br>🚀 Currently learning DSA, Web Development, and AI tools<br>📚 Working on mini projects to strengthen my skills<br><br>
+Hi there 👋, I'm Renu<br><br>🎓 Final year Computer Science Engineering Student <br>💡 Interested in Web Development | AI | Problem Solving | Building Projects | Art <br>🚀 Currently learning DSA, Web Development, and AI tools<br>📚 Working on mini projects to strengthen my skills<br><br>
 
 
 ## 🌐 Socials:
