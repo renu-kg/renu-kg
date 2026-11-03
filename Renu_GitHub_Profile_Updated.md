@@ -70,6 +70,7 @@ Hi there! 👋 I'm **Renu K G**, a Computer Science Engineering student who enjo
 | [Goal-Oriented Virtual Study Assistant](https://github.com/renu-kg/study-assistant) | An AI-powered study assistant built to support goal-oriented learning and retrieval-augmented responses. | Python, Streamlit, LangChain, FAISS, Groq |
 | [Global Debt Settlement Optimizer](https://github.com/renu-kg/global-debt-settlement-optimizer) | A debt settlement optimisation project that applies a greedy approach to reduce the number of transactions. | C, Algorithms |
 | [AI Skill Analyzer](https://github.com/renu-kg/AI-Skill-Analyzer-UptoSkills) | Explores AI-based skill analysis and insights. | AI/ML |
+| Personal Budget & Expense Tracker | A web application for recording and managing personal expenses. | HTML, CSS, PHP, MySQL |
 | **Edge-AI Chest X-ray Classification** | Academic project exploring deep-learning-based chest X-ray image classification. | Python, Deep Learning |
 
 ---
