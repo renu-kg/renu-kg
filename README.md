@@ -14,7 +14,7 @@ Hi there! 👋 I'm **Renu K G**, a Computer Science Engineering student who enjo
 
 ## 🌐 Socials
 
-[![Developer Portfolio](https://img.shields.io/badge/Developer%20Portfolio-Visit-8A6F4D?style=for-the-badge&logo=vercel&logoColor=white)](ADD_YOUR_DEVELOPER_PORTFOLIO_LINK)
+[![Developer Portfolio](https://img.shields.io/badge/Developer%20Portfolio-Visit-8A6F4D?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-renu-kg.vercel.app)
 [![Art Portfolio](https://img.shields.io/badge/Art%20Portfolio-Visit%20Gallery-8A6F4D?style=for-the-badge&logo=netlify&logoColor=white)](https://renu-art-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renu-k-g-9aaa152a6/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-Follow-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://in.pinterest.com/renukg1/)
